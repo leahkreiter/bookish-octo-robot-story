@@ -1,3 +1,5 @@
 	Leah is a computer engineering student at UW Madison.  In her free time on campus, she likes to go out with her friends, find new coffee shops, and sleep when she is not studying. Leah's favorite part about her classes are her ECE classes, she really wants to do assembly code as part of her future career. 
 
 However, one day, she took a new course related to digital photography, and she found it was more interesting to take photos than coding. She changed her idea. She no longer wanted to be a computer engineer, instead she decided to be a photographer.  
+
+It was more interesting for her to go out into the world and take beautiful pictures then to stay at home on her computer. Leah enjoys more creative things then formatted java syntax. Her eyes were getting tired staring and the thousands of lines of code.
